@@ -1,0 +1,9 @@
+; $Id
+
+name = ostebaronen
+description = Theme for Ostebaronen.dk
+core = 7.x
+base theme = ninesixty
+engine = phptemplate
+
+stylesheets[all][] = styles/styles.css
